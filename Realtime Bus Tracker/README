@@ -1,0 +1,5 @@
+Title: Real Time Bus Tracker
+Description: This project gives an example of what bus there woudl probably be on the way to Magic Kingdom from where I live. 
+How to Run: Click the button to cycle through the various bus stops.
+Roadmap: In the future, this project could exand to provide bus stop from the airport to Disney World.
+License information: This project was made using API from mapbox.com and is for the MIT xPro program through MIT.
